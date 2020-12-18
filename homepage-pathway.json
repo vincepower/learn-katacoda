@@ -76,6 +76,11 @@
       "external_link": "https://learn.openshift.com/playgrounds/",
       "title": "OpenShift Playgrounds",
       "description": "Explore and experiment with an OpenShift cluster for 60 minutes"
+    },
+    {
+      "external_link": "https://learn.openshift.com/partners/",
+      "title": "Red Hat Partners",
+      "description": "Explore and experiment with using Red Hat partner technology on Red Hat products"
     }
   ]
 }
