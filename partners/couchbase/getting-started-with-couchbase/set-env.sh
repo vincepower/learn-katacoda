@@ -1,2 +1,3 @@
 #!/bin/bash
-# set-env has been run
+# This is the script to put provisioning things in, this runs in the foreground
+
