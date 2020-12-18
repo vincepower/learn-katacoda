@@ -1,0 +1,13 @@
+{
+  "title": "Red Hat Technology Partners",
+  "icon": "fa-openshift",
+  "courses": [
+    {
+      "count": 1,
+      "action": "Start Course",
+      "external_link": "https://learn.openshift.com/partners/courses/partners-couchbase/",
+      "course_id": "partners-couchbase",
+      "title": "Couchbase"
+    }
+  ]
+}
